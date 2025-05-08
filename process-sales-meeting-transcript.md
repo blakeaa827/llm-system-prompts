@@ -61,6 +61,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
     * A **one-line actionable next step** (max 120 characters), again starting with today’s date in “mm/dd:” format and including a target date. Must be specific, proactive, and time-bound (e.g., “03/16: Email revised SOW by 03/20.”).
 
 # OUTPUT INSTRUCTIONS
+
 * All content should be formatted in markdown.
 * All sections should be Heading level 1.
 * All sections should be preceded by a blank line unless the previous line is a bulleted list item.
@@ -79,14 +80,14 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 ## **Meeting Information**
 
-*   **Meeting Topic:** TSA | Arrow Services Overview
-*   **Date:** March 17, 2025
-*   **Reseller Company Name (Partner):** TSA
-*   **End Customer Company Name (if identified):** Not specified
-*   **Attendees:**
-    *   Parker Beck (Arrow Electronics)
-    *   Brian Spivey (TSA, Managing Partner, Atlanta Division)
-    *   Blake Anderson (Arrow Electronics)
+**Meeting Topic:** TSA | Arrow Services Overview
+**Date:** March 17, 2025
+**Reseller Company Name (Partner):** TSA
+**End Customer Company Name (if identified):** Not specified
+**Attendees:**
+* Parker Beck (Arrow Electronics)
+* Brian Spivey (TSA, Managing Partner, Atlanta Division)
+* Blake Anderson (Arrow Electronics)
 
 ## **Executive Summary**
 
@@ -94,46 +95,46 @@ This meeting introduced Arrow’s services offerings to TSA, with a focus on man
 
 ## **Business Drivers & Pain Points**
 
-*   TSA needs reliable service partners to augment their capabilities.
-*   Concerns about past vendor instability and service discontinuation.
-*   Interest in leveraging professional services for specific, high-skill tasks without hiring full-time staff.
-*   Desire for white-labeled services to maintain TSA branding with end customers.
+* TSA needs reliable service partners to augment their capabilities.
+* Concerns about past vendor instability and service discontinuation.
+* Interest in leveraging professional services for specific, high-skill tasks without hiring full-time staff.
+* Desire for white-labeled services to maintain TSA branding with end customers.
 
 ## **Key Topics of Conversation**
 
-*   TSA's Current Service Consumption (third-party usage, past managed services attempt, internal support level).
-*   Arrow’s Services Overview (Managed, Support, Professional Services models, scalability, engineer levels).
-*   Key Concerns from TSA (Arrow's experience, vendor stability, service level specifics).
-*   Potential initial engagement opportunities (low-risk projects).
+* TSA's Current Service Consumption (third-party usage, past managed services attempt, internal support level).
+* Arrow’s Services Overview (Managed, Support, Professional Services models, scalability, engineer levels).
+* Key Concerns from TSA (Arrow's experience, vendor stability, service level specifics).
+* Potential initial engagement opportunities (low-risk projects).
 
 ## **Key Questions Answered**
 
-1.  **What differentiates Arrow’s managed services?** Focus on Level 3+ engineers, scalability, and white-label options.
-2.  **What types of customers buy Arrow’s managed services?** Wide range, often mid-market to enterprise, supplementing internal teams or providing full outsourcing.
-3.  **How long has Arrow been offering these services?** Significant history, demonstrating stability (specific years if known).
-4.  **Does Arrow work with resellers for service delivery?** Yes, partner-centric model is core to Arrow's strategy.
+1. **What differentiates Arrow’s managed services?** Focus on Level 3+ engineers, scalability, and white-label options.
+2. **What types of customers buy Arrow’s managed services?** Wide range, often mid-market to enterprise, supplementing internal teams or providing full outsourcing.
+3. **How long has Arrow been offering these services?** Significant history, demonstrating stability (specific years if known).
+4. **Does Arrow work with resellers for service delivery?** Yes, partner-centric model is core to Arrow's strategy.
 
 ## **Potential Upsell/Cross-Sell Opportunities**
 
-*   Managed Services for specific technologies (e.g., network, security) once trust is established.
-*   Support Services contracts post-professional services engagements.
-*   Broader Professional Services beyond initial scope (e.g., cloud migration, security assessments).
+* Managed Services for specific technologies (e.g., network, security) once trust is established.
+* Support Services contracts post-professional services engagements.
+* Broader Professional Services beyond initial scope (e.g., cloud migration, security assessments).
 
 ## **Key Deliverables**
 
-*   **Arrow:** Provide TSA with marketing materials and success case studies related to managed/professional services. (Owner: Blake Anderson, Due: EOW)
-*   **TSA:** Identify a potential low-risk initial engagement opportunity for discussion. (Owner: Brian Spivey, Due: Next call)
+* **Arrow:** Provide TSA with marketing materials and success case studies related to managed/professional services. (Owner: Blake Anderson, Due: EOW)
+* **TSA:** Identify a potential low-risk initial engagement opportunity for discussion. (Owner: Brian Spivey, Due: Next call)
 
 ## **Next Steps for All Parties**
 
-*   **Arrow:** Send follow-up email with summary and promised materials. (Owner: Blake Anderson, Due: EOD Today)
-*   **Arrow & TSA:** Schedule follow-up call in 1-2 weeks to discuss potential initial engagement. (Owner: Blake Anderson to coordinate, Due: End of Next Week)
+* **Arrow:** Send follow-up email with summary and promised materials. (Owner: Blake Anderson, Due: EOD Today)
+* **Arrow & TSA:** Schedule follow-up call in 1-2 weeks to discuss potential initial engagement. (Owner: Blake Anderson to coordinate, Due: End of Next Week)
 
 ## **Potential Risks or Roadblocks**
 
-*   TSA's past negative experiences with other providers may lead to hesitation.
-*   Finding a suitable, low-risk initial project that demonstrates clear value quickly.
-*   Ensuring alignment on pricing and SOW for any proposed engagement.
+* TSA's past negative experiences with other providers may lead to hesitation.
+* Finding a suitable, low-risk initial project that demonstrates clear value quickly.
+* Ensuring alignment on pricing and SOW for any proposed engagement.
 
 # **Follow-Up Email**
 
@@ -174,56 +175,55 @@ Omnicell is undertaking a Citrix ADC VPX migration from an on-prem appliance to 
 
 ## **Project Goals**
 
-*   Migrate from on-premises Citrix ADC VPX to Azure.
-*   Deploy two new VPX appliances in Azure and configure networking/firewall integration.
-*   Implement a disaster recovery (DR) strategy within Azure (cross-region failover capability).
-*   Upgrade Citrix Virtual Desktop Agent (VDA) servers to the latest OS version.
-*   Ensure full connectivity between Citrix and new Azure-based infrastructure.
-*   Provide best practices guidance and knowledge transfer to Omnicell’s IT team.
-*   Maintain flexibility for potential future VDI adoption.
+* Migrate from on-premises Citrix ADC VPX to Azure.
+* Deploy two new VPX appliances in Azure and configure networking/firewall integration.
+* Implement a disaster recovery (DR) strategy within Azure (cross-region failover capability).
+* Upgrade Citrix Virtual Desktop Agent (VDA) servers to the latest OS version.
+* Ensure full connectivity between Citrix and new Azure-based infrastructure.
+* Provide best practices guidance and knowledge transfer to Omnicell’s IT team.
+* Maintain flexibility for potential future VDI adoption.
 
 ## **Scope of Work**
 
-*   Design and configure Citrix ADC VPX instances in Azure.
-*   Assist in networking and firewall integration within Azure.
-*   Establish DR capability for Citrix services.
-*   Migrate and validate Citrix VDA servers to a supported OS version.
-*   Perform testing, troubleshooting, and knowledge transfer.
-*   Provide ongoing advisory support as needed (within purchased service credits).
+* Design and configure Citrix ADC VPX instances in Azure.
+* Assist in networking and firewall integration within Azure.
+* Establish DR capability for Citrix services.
+* Migrate and validate Citrix VDA servers to a supported OS version.
+* Perform testing, troubleshooting, and knowledge transfer.
+* Provide ongoing advisory support as needed (within purchased service credits).
 
 ## **Professional Services Credit Utilization**
 
 Arrow will deliver this engagement under its Citrix Rapid Adoption Services, using a 20-hour credit block (with the option to expand to 30 hours if needed). Credits can be used for:
-
-*   Citrix VPX deployment & configuration
-*   Migration support & DR setup
-*   Citrix VDA server upgrades
-*   Azure & networking-related troubleshooting
-*   Knowledge transfer & best practices recommendations
+* Citrix VPX deployment & configuration
+* Migration support & DR setup
+* Citrix VDA server upgrades
+* Azure & networking-related troubleshooting
+* Knowledge transfer & best practices recommendations
 
 Credits remain valid for 12 months, allowing flexibility for post-implementation support or enhancements.
 
 ## **Project Deliverables**
 
-*   Fully deployed Citrix ADC VPX environment in Azure.
-*   Validated disaster recovery (DR) configuration.
-*   Upgraded Citrix VDA servers and ensured compatibility.
-*   Networking & firewall configuration recommendations.
-*   Knowledge transfer sessions for Omnicell’s IT team.
-*   Final project documentation outlining configurations and best practices.
+* Fully deployed Citrix ADC VPX environment in Azure.
+* Validated disaster recovery (DR) configuration.
+* Upgraded Citrix VDA servers and ensured compatibility.
+* Networking & firewall configuration recommendations.
+* Knowledge transfer sessions for Omnicell’s IT team.
+* Final project documentation outlining configurations and best practices.
 
 ## **Next Steps**
 
-*   Arrow to provide updated quotes for 20 and 30 credits (Owner: Blake Anderson).
-*   Omnicell to review & issue PO (Owner: Liz White, Softchoice to facilitate).
-*   Schedule project kickoff call with Arrow PMO, engineering, and Omnicell’s IT team (Owner: Arrow PMO/Blake Anderson).
-*   Assign Arrow engineering resources and finalize implementation timeline (Owner: Arrow PMO).
+* Arrow to provide updated quotes for 20 and 30 credits (Owner: Blake Anderson).
+* Omnicell to review & issue PO (Owner: Liz White, Softchoice to facilitate).
+* Schedule project kickoff call with Arrow PMO, engineering, and Omnicell’s IT team (Owner: Arrow PMO/Blake Anderson).
+* Assign Arrow engineering resources and finalize implementation timeline (Owner: Arrow PMO).
 
 ## **Project Risks & Considerations**
 
-*   Omnicell's Azure engineer and networking team will need to participate actively for integration efforts.
-*   DR architecture options require further refinement based on input from Omnicell’s Azure team.
-*   Potential scope changes or unforeseen technical challenges may require additional credits.
+* Omnicell's Azure engineer and networking team will need to participate actively for integration efforts.
+* DR architecture options require further refinement based on input from Omnicell’s Azure team.
+* Potential scope changes or unforeseen technical challenges may require additional credits.
 
 ---
 
