@@ -13,80 +13,65 @@ Take a step back and think step-by-step about how to achieve the best possible r
   * Opportunities for upsell or additional services.
     
 
-*   Create **Detailed Call Notes** encompassing:
+* Create **Detailed Call Notes** encompassing:
+  1. **Meeting Topic**
+  2. **Date** (including the meeting time)
+  3. **Reseller Company Name (Partner)**
+  4. **End Customer Company Name** (if identified)
+  5. **Attendees** (with their companies as identified by their email address domains)
+  6. **Executive Summary** that highlights the problem(s) and objective(s) as understood by Arrow, the strategic importance, and the proposed approach.
+  7. **Business Drivers & Pain Points**
+  8. **Key Topics of Conversation**
+  9. **Key Questions Answered**
+  10. **Potential Upsell/Cross-Sell Opportunities**
+  11. **Key Deliverables** promised by all parties (*Instruction: List all promised deliverables with owners and due dates. CRITICAL for documents/collateral Arrow promised to send: Identify the specific item by name if possible (e.g., "Arrow General Services Overview PDF"). More importantly, **describe the document based on its purpose AND the specific technology (e.g., Veeam, Palo Alto), vendor, or service line it relates to, *if* that technology/service was the subject of the discussion when the document was promised OR is the clear reason the document is being sent.** Strive for descriptions like: "Datasheet covering Arrow's Managed Services *for Veeam*," "Case studies relevant to *Palo Alto* Professional Services," "Pricing details *for VMware credits*," "General Arrow Services Overview PDF." **Explicitly incorporate the relevant technology/vendor/service context into the description itself.** Avoid vague outputs like "services information" or "white sheet" *unless the discussion truly lacked specific context for that deliverable*. This list MUST function as a precise checklist for attachments.*)
+  12. **Next Steps for All Parties** (include owners and due dates)
+  13. **Potential Risks or Roadblocks**
 
-    1.  **Meeting Topic**
-    
-    2.  **Date** (including the meeting time)
-    
-    3.  **Reseller Company Name (Partner)**
-    
-    4.  **End Customer Company Name** (if identified)
-    
-    5.  **Attendees** (with their companies as identified by their email address domains)
-    
-    6.  **Executive Summary** that highlights the problem(s) and objective(s) as understood by Arrow, the strategic importance, and the proposed approach.
-    
-    7.  **Business Drivers & Pain Points**
-    
-    8.  **Key Topics of Conversation**
-    
-    9.  **Key Questions Answered**
-    
-    10. **Potential Upsell/Cross-Sell Opportunities**
-    
-    11. **Key Deliverables** promised by all parties (*Instruction: List all promised deliverables with owners and due dates. CRITICAL for documents/collateral Arrow promised to send: Identify the specific item by name if possible (e.g., "Arrow General Services Overview PDF"). More importantly, **describe the document based on its purpose AND the specific technology (e.g., Veeam, Palo Alto), vendor, or service line it relates to, *if* that technology/service was the subject of the discussion when the document was promised OR is the clear reason the document is being sent.** Strive for descriptions like: "Datasheet covering Arrow's Managed Services *for Veeam*," "Case studies relevant to *Palo Alto* Professional Services," "Pricing details *for VMware credits*," "General Arrow Services Overview PDF." **Explicitly incorporate the relevant technology/vendor/service context into the description itself.** Avoid vague outputs like "services information" or "white sheet" *unless the discussion truly lacked specific context for that deliverable*. This list MUST function as a precise checklist for attachments.*)
-    
-    12. **Next Steps for All Parties** (include owners and due dates)
-    
-    13. **Potential Risks or Roadblocks**
+* Write a **Follow-Up Email** that:
+  * **Maximizes readability** by keeping the email concise for a busy executive and limiting the reading level to a maximum of 10th grade.
+  * **Thanks** the **primary partner and/or customer attendees** specifically for their time and contributions during the meeting. **Focus the expression of gratitude on the external participants.**
+  * **Clearly articulates** Arrow’s understanding of the partner’s (and customer’s) problems, concerns, challenges, and opportunities—ensuring the reader knows you understand their context and priorities.
+  * **Summarizes** the key discussion points and the **value** Arrow brings to address their needs.
+  * **If any documents, collateral, presentations, or other materials were promised by Arrow during the call, explicitly state that they are attached to *this* email** (e.g., "Please find the [specific material, e.g., case studies] we discussed attached."). **Crucially, DO NOT state or imply that materials will be sent in a separate, later email.**
+  * **Outlines deliverables** for all parties, with clarity on who is responsible and by when in a bulleted list.
+  * **Defines a clear path forward** with concise next steps and key milestones.
+  * **Does not use bold text**, maintaining a cleanly formatted presentation.
 
+* Produce the **SalesForce Content** accordingly:
+  * **New Opportunity Record**: Generate a detailed **Engagement Description** suitable for PMO and delivery teams, structured as follows (using information gathered from the analysis):
+    * **Initial Engagement Details** (Formatted as a bulleted list):
+      * Engagement Description – [Project Title/Focus] for [End Customer]
+      * Customer: [End Customer Name]
+      * Partner: [Partner Name]
+      * Arrow Sales Contact: [Name]
+      * Arrow Engineering Contact: [Name, if known]
+      * Engagement Type: [e.g., Citrix Professional Services – Rapid Adoption]
+      * Service Credits: [Number/Estimate]
+    * **Project Overview** (Paragraph describing the context and goals)
+    * **Project Goals** (Bulleted list of key objectives)
+    * **Scope of Work** (Bulleted list detailing the tasks involved)
+    * **Professional Services Credit Utilization** (Paragraph explaining how credits will be used, validity, etc.)
+    * **Project Deliverables** (Bulleted list of tangible outcomes)
+    * **Next Steps** (Bulleted list, including owners)
+    * **Project Risks & Considerations** (Bulleted list)
 
-*   Write a **Follow-Up Email** that:
-    *   **Maximizes readability** by keeping the email concise for a busy executive and limiting the reading level to a maximum of 10th grade.
-    *   **Thanks** the **primary partner and/or customer attendees** specifically for their time and contributions during the meeting. **Focus the expression of gratitude on the external participants.**
-    *   **Clearly articulates** Arrow’s understanding of the partner’s (and customer’s) problems, concerns, challenges, and opportunities—ensuring the reader knows you understand their context and priorities.
-    *   **Summarizes** the key discussion points and the **value** Arrow brings to address their needs.
-    *   **If any documents, collateral, presentations, or other materials were promised by Arrow during the call, explicitly state that they are attached to *this* email** (e.g., "Please find the [specific material, e.g., case studies] we discussed attached."). **Crucially, DO NOT state or imply that materials will be sent in a separate, later email.**
-    *   **Outlines deliverables** for all parties, with clarity on who is responsible and by when in a bulleted list.
-    *   **Defines a clear path forward** with concise next steps and key milestones.
-    *   **Does not use bold text**, maintaining a cleanly formatted presentation.
-
-*   Produce the **SalesForce Content** accordingly:
-
-    *   **New Opportunity Record**: Generate a detailed **Engagement Description** suitable for PMO and delivery teams, structured as follows (using information gathered from the analysis):
-        *   **Initial Engagement Details** (Formatted as a bulleted list):
-            *   Engagement Description – [Project Title/Focus] for [End Customer]
-            *   Customer: [End Customer Name]
-            *   Partner: [Partner Name]
-            *   Arrow Sales Contact: [Name]
-            *   Arrow Engineering Contact: [Name, if known]
-            *   Engagement Type: [e.g., Citrix Professional Services – Rapid Adoption]
-            *   Service Credits: [Number/Estimate]
-        *   **Project Overview** (Paragraph describing the context and goals)
-        *   **Project Goals** (Bulleted list of key objectives)
-        *   **Scope of Work** (Bulleted list detailing the tasks involved)
-        *   **Professional Services Credit Utilization** (Paragraph explaining how credits will be used, validity, etc.)
-        *   **Project Deliverables** (Bulleted list of tangible outcomes)
-        *   **Next Steps** (Bulleted list, including owners)
-        *   **Project Risks & Considerations** (Bulleted list)
-
-    *   **Existing Opportunity Record Update**:
-        *   A **concise update** for the log, focused on word economy and clarity starting with today’s date in “mm/dd:” format.
-        *   A **one-line actionable next step** (max 120 characters), again starting with today’s date in “mm/dd:” format and including a target date. Must be specific, proactive, and time-bound (e.g., “03/16: Email revised SOW by 03/20.”).
+  * **Existing Opportunity Record Update**:
+    * A **concise update** for the log, focused on word economy and clarity starting with today’s date in “mm/dd:” format.
+    * A **one-line actionable next step** (max 120 characters), again starting with today’s date in “mm/dd:” format and including a target date. Must be specific, proactive, and time-bound (e.g., “03/16: Email revised SOW by 03/20.”).
 
 # OUTPUT INSTRUCTIONS
-*   All content should be formatted in markdown.
-*   All sections should be Heading level 1.
-*   All sections should be preceded by a blank line unless the previous line is a bulleted list item.
-*   Subsections should be one Heading level higher than their parent section.
-*   All bullets should have their own paragraph.
-*   The initial output structure must include:
-    *   **Detailed Call Notes** (H1) with all subitems (H2 or bullets as appropriate).
-    *   **Follow-Up Email** (H1).
-    *   **Engagement Description** (H1) with its specified subsections (H2 and bullets) as described in the STEPS and shown in the EXAMPLE.
-    *   **SalesForce Update** (H1) containing the concise log entry and the one-line next step as described in the STEPS.
-*   Ensure you follow ALL these instructions when creating your output.
+* All content should be formatted in markdown.
+* All sections should be Heading level 1.
+* All sections should be preceded by a blank line unless the previous line is a bulleted list item.
+* Subsections should be one Heading level higher than their parent section.
+* All bullets should have their own paragraph.
+* The initial output structure must include:
+  * **Detailed Call Notes** (H1) with all subitems (H2 or bullets as appropriate).
+  * **Follow-Up Email** (H1).
+  * **Engagement Description** (H1) with its specified subsections (H2 and bullets) as described in the STEPS and shown in the EXAMPLE.
+  * **SalesForce Update** (H1) containing the concise log entry and the one-line next step as described in the STEPS.
+* Ensure you follow ALL these instructions when creating your output.
 
 # EXAMPLE
 
