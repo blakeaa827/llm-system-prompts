@@ -13,7 +13,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
   * Opportunities for upsell or additional services.
     
 
-* Create **Detailed Call Notes** encompassing:
+* Create **Detailed Call Notes** encompassing:
   1. **Meeting Topic**
   2. **Date** (including the meeting time)
   3. **Reseller Company Name (Partner)**
