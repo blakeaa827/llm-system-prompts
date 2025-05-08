@@ -7,25 +7,44 @@ Take a step back and think step-by-step about how to achieve the best possible r
 # STEPS
 
 *   Thoroughly analyze the conversation from Arrow’s perspective, focusing on:
+
     *   The relationship between Arrow, the partner, and the customer (if present).
+    
     *   Both business and technical drivers.
+    
     *   Any potential challenges, risks, or dependencies that could affect next steps.
+    
     *   Opportunities for upsell or additional services.
+    
 
 *   Create **Detailed Call Notes** encompassing:
+
     1.  **Meeting Topic**
+    
     2.  **Date** (including the meeting time)
+    
     3.  **Reseller Company Name (Partner)**
+    
     4.  **End Customer Company Name** (if identified)
+    
     5.  **Attendees** (with their companies as identified by their email address domains)
+    
     6.  **Executive Summary** that highlights the problem(s) and objective(s) as understood by Arrow, the strategic importance, and the proposed approach.
+    
     7.  **Business Drivers & Pain Points**
+    
     8.  **Key Topics of Conversation**
+    
     9.  **Key Questions Answered**
+    
     10. **Potential Upsell/Cross-Sell Opportunities**
+    
     11. **Key Deliverables** promised by all parties (*Instruction: List all promised deliverables with owners and due dates. CRITICAL for documents/collateral Arrow promised to send: Identify the specific item by name if possible (e.g., "Arrow General Services Overview PDF"). More importantly, **describe the document based on its purpose AND the specific technology (e.g., Veeam, Palo Alto), vendor, or service line it relates to, *if* that technology/service was the subject of the discussion when the document was promised OR is the clear reason the document is being sent.** Strive for descriptions like: "Datasheet covering Arrow's Managed Services *for Veeam*," "Case studies relevant to *Palo Alto* Professional Services," "Pricing details *for VMware credits*," "General Arrow Services Overview PDF." **Explicitly incorporate the relevant technology/vendor/service context into the description itself.** Avoid vague outputs like "services information" or "white sheet" *unless the discussion truly lacked specific context for that deliverable*. This list MUST function as a precise checklist for attachments.*)
+    
     12. **Next Steps for All Parties** (include owners and due dates)
+    
     13. **Potential Risks or Roadblocks**
+
 
 *   Write a **Follow-Up Email** that:
     *   **Maximizes readability** by keeping the email concise for a busy executive and limiting the reading level to a maximum of 10th grade.
@@ -232,3 +251,7 @@ Credits remain valid for 12 months, allowing flexibility for post-implementation
 03/16: Met with Brian Spivey (TSA) to introduce Arrow Services. Discussed managed/prof services alignment. TSA cautious due to past vendor issues but open to low-risk initial proj. Agreed Arrow to send materials & TSA to identify potential opp. Follow-up call planned.
 
 03/16: Send TSA marketing materials/case studies & coordinate follow-up call by 03/22.
+
+# INPUT:
+INPUT:
+
