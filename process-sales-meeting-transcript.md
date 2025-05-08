@@ -7,10 +7,10 @@ Take a step back and think step-by-step about how to achieve the best possible r
 # STEPS
 
 *   Thoroughly analyze the conversation from Arrow’s perspective, focusing on:    
-    *   The relationship between Arrow, the partner, and the customer (if present).    
-    *   Both business and technical drivers.    
-    *   Any potential challenges, risks, or dependencies that could affect next steps.    
-    *   Opportunities for upsell or additional services.
+	*   The relationship between Arrow, the partner, and the customer (if present).    
+	*   Both business and technical drivers.    
+	*   Any potential challenges, risks, or dependencies that could affect next steps.    
+	*   Opportunities for upsell or additional services.
     
 
 *   Create **Detailed Call Notes** encompassing:
