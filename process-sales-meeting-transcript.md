@@ -81,10 +81,10 @@ Take a step back and think step-by-step about how to achieve the best possible r
 ## **Meeting Information**
 
 **Meeting Topic:** TSA | Arrow Services Overview
- **Date:** March 17, 2025
- **Reseller Company Name (Partner):** TSA
- **End Customer Company Name (if identified):** Not specified
- **Attendees:**
+**Date:** March 17, 2025
+**Reseller Company Name (Partner):** TSA
+**End Customer Company Name (if identified):** Not specified
+**Attendees:**
 * Parker Beck (Arrow Electronics)
 * Brian Spivey (TSA, Managing Partner, Atlanta Division)
 * Blake Anderson (Arrow Electronics)
