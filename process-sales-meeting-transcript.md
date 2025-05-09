@@ -80,31 +80,31 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 ## **Meeting Information**
 
-* **Meeting Topic:** TSA | Arrow Services Overview
+* **Meeting Topic:** JSA | Arrow Services Overview
 * **Date:** March 17, 2025
-* **Reseller Company Name (Partner):** TSA
+* **Reseller Company Name (Partner):** JSA
 * **End Customer Company Name (if identified):** Not specified
 * **Attendees:**
   * Parker Beck (Arrow Electronics)
-  * Brian Spivey (TSA, Managing Partner, Atlanta Division)
+  * Brian Johnson (JSA, Managing Partner, Atlanta Division)
   * Blake Anderson (Arrow Electronics)
 
 ## **Executive Summary**
 
-This meeting introduced Arrow’s services offerings to TSA, with a focus on managed services, support services, and professional services. Brian Spivey from TSA provided insight into their current service consumption and areas where they might need additional support. The conversation covered TSA’s experience with managed services, concerns about vendor reliability, and interest in professional services augmentation. Arrow’s ability to provide scalable, high-level expertise and white-labeled service delivery was discussed as a potential fit for TSA’s needs.
+This meeting introduced Arrow’s services offerings to TSA, with a focus on managed services, support services, and professional services. Brian Johnson from TSA provided insight into their current service consumption and areas where they might need additional support. The conversation covered TSA’s experience with managed services, concerns about vendor reliability, and interest in professional services augmentation. Arrow’s ability to provide scalable, high-level expertise and white-labeled service delivery was discussed as a potential fit for TSA’s needs.
 
 ## **Business Drivers & Pain Points**
 
-* TSA needs reliable service partners to augment their capabilities.
+* JSA needs reliable service partners to augment their capabilities.
 * Concerns about past vendor instability and service discontinuation.
 * Interest in leveraging professional services for specific, high-skill tasks without hiring full-time staff.
-* Desire for white-labeled services to maintain TSA branding with end customers.
+* Desire for white-labeled services to maintain JSA branding with end customers.
 
 ## **Key Topics of Conversation**
 
-* TSA's Current Service Consumption (third-party usage, past managed services attempt, internal support level).
+* JSA's Current Service Consumption (third-party usage, past managed services attempt, internal support level).
 * Arrow’s Services Overview (Managed, Support, Professional Services models, scalability, engineer levels).
-* Key Concerns from TSA (Arrow's experience, vendor stability, service level specifics).
+* Key Concerns from JSA (Arrow's experience, vendor stability, service level specifics).
 * Potential initial engagement opportunities (low-risk projects).
 
 ## **Key Questions Answered**
@@ -122,17 +122,17 @@ This meeting introduced Arrow’s services offerings to TSA, with a focus on man
 
 ## **Key Deliverables**
 
-* **Arrow:** Provide TSA with marketing materials and success case studies related to managed/professional services. (Owner: Blake Anderson, Due: EOW)
-* **TSA:** Identify a potential low-risk initial engagement opportunity for discussion. (Owner: Brian Spivey, Due: Next call)
+* **Arrow:** Provide JSA with marketing materials and success case studies related to managed/professional services. (Owner: Blake Anderson, Due: EOW)
+* **JSA:** Identify a potential low-risk initial engagement opportunity for discussion. (Owner: Brian Johnson, Due: Next call)
 
 ## **Next Steps for All Parties**
 
 * **Arrow:** Send follow-up email with summary and promised materials. (Owner: Blake Anderson, Due: EOD Today)
-* **Arrow & TSA:** Schedule follow-up call in 1-2 weeks to discuss potential initial engagement. (Owner: Blake Anderson to coordinate, Due: End of Next Week)
+* **Arrow & JSA:** Schedule follow-up call in 1-2 weeks to discuss potential initial engagement. (Owner: Blake Anderson to coordinate, Due: End of Next Week)
 
 ## **Potential Risks or Roadblocks**
 
-* TSA's past negative experiences with other providers may lead to hesitation.
+* JSA's past negative experiences with other providers may lead to hesitation.
 * Finding a suitable, low-risk initial project that demonstrates clear value quickly.
 * Ensuring alignment on pricing and SOW for any proposed engagement.
 
@@ -150,10 +150,10 @@ Scott, I look forward to receiving the detailed requirements via email.
 
 Next Steps:
 
-* Scott (Compucom): Send detailed project requirements email to Blake.
+* Scott (JSA): Send detailed project requirements email to Blake.
 * Blake (Arrow): Review details and estimate Level of Effort (LOE) in credits.
 * Blake (Arrow): Schedule internal follow-up with John & Scott to review LOE/credit strategy.
-* John (Compucom): Let's connect separately to schedule the Arrow services presentation for your West sales team.
+* John (JSA): Let's connect separately to schedule the Arrow services presentation for your West sales team.
 
 Best,
 
@@ -162,8 +162,8 @@ Best,
 # **Engagement Description**
 
 Engagement Description – Citrix ADC VPX Migration & DR Implementation for Omnicell
-Customer: Omnicell
-Partner: Softchoice
+Customer: Walmart
+Partner: JSA
 Arrow Sales Contact: Blake Anderson
 Arrow Engineering Contact: Allen Lester
 Engagement Type: Citrix Professional Services – Rapid Adoption
@@ -171,7 +171,7 @@ Service Credits: 20 (potentially 30)
 
 ## **Project Overview**
 
-Omnicell is undertaking a Citrix ADC VPX migration from an on-prem appliance to Azure, with a key focus on implementing a disaster recovery (DR) strategy within Azure. Their current Citrix infrastructure is outdated and requires modernization to improve reliability, scalability, and security. The engagement includes both implementation and knowledge transfer to ensure Omnicell’s sole Citrix administrator, Liz White, is fully equipped to manage the new environment post-deployment.
+Walmart is undertaking a Citrix ADC VPX migration from an on-prem appliance to Azure, with a key focus on implementing a disaster recovery (DR) strategy within Azure. Their current Citrix infrastructure is outdated and requires modernization to improve reliability, scalability, and security. The engagement includes both implementation and knowledge transfer to ensure Omnicell’s sole Citrix administrator, Liz White, is fully equipped to manage the new environment post-deployment.
 
 ## **Project Goals**
 
@@ -180,7 +180,7 @@ Omnicell is undertaking a Citrix ADC VPX migration from an on-prem appliance to 
 * Implement a disaster recovery (DR) strategy within Azure (cross-region failover capability).
 * Upgrade Citrix Virtual Desktop Agent (VDA) servers to the latest OS version.
 * Ensure full connectivity between Citrix and new Azure-based infrastructure.
-* Provide best practices guidance and knowledge transfer to Omnicell’s IT team.
+* Provide best practices guidance and knowledge transfer to Walmart’s IT team.
 * Maintain flexibility for potential future VDI adoption.
 
 ## **Scope of Work**
@@ -209,29 +209,29 @@ Credits remain valid for 12 months, allowing flexibility for post-implementation
 * Validated disaster recovery (DR) configuration.
 * Upgraded Citrix VDA servers and ensured compatibility.
 * Networking & firewall configuration recommendations.
-* Knowledge transfer sessions for Omnicell’s IT team.
+* Knowledge transfer sessions for Walmart’s IT team.
 * Final project documentation outlining configurations and best practices.
 
 ## **Next Steps**
 
 * Arrow to provide updated quotes for 20 and 30 credits (Owner: Blake Anderson).
-* Omnicell to review & issue PO (Owner: Liz White, Softchoice to facilitate).
-* Schedule project kickoff call with Arrow PMO, engineering, and Omnicell’s IT team (Owner: Arrow PMO/Blake Anderson).
+* Walmart to review & issue PO (Owner: Liz Grey, JSA to facilitate).
+* Schedule project kickoff call with Arrow PMO, engineering, and Walmart’s IT team (Owner: Arrow PMO/Blake Anderson).
 * Assign Arrow engineering resources and finalize implementation timeline (Owner: Arrow PMO).
 
 ## **Project Risks & Considerations**
 
-* Omnicell's Azure engineer and networking team will need to participate actively for integration efforts.
-* DR architecture options require further refinement based on input from Omnicell’s Azure team.
+* Walmart's Azure engineer and networking team will need to participate actively for integration efforts.
+* DR architecture options require further refinement based on input from Walmart’s Azure team.
 * Potential scope changes or unforeseen technical challenges may require additional credits.
 
 ---
 
 # **SalesForce Update**
 
-03/16: Met with Brian Spivey (TSA) to introduce Arrow Services. Discussed managed/prof services alignment. TSA cautious due to past vendor issues but open to low-risk initial proj. Agreed Arrow to send materials & TSA to identify potential opp. Follow-up call planned.
+03/16: Met with Brian Johnson (JSA) to introduce Arrow Services. Discussed managed/prof services alignment. JSA cautious due to past vendor issues but open to low-risk initial proj. Agreed Arrow to send materials & JSA to identify potential opp. Follow-up call planned.
 
-03/16: Send TSA marketing materials/case studies & coordinate follow-up call by 03/22.
+03/16: Send JSA marketing materials/case studies & coordinate follow-up call by 03/22.
 
 # INPUT:
 INPUT:
