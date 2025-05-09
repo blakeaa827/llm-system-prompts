@@ -36,7 +36,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
     - Take the text from the "Subject" header.
 
-    - Remove common prefixes like "[External]", "[EXTERNAL]", "[EXT]", etc., including any trailing space.
+    - Remove common prefixes like "[External]", "[EXTERNAL]", "[EXT]", "RE:", etc., including any trailing space.
 
     - The goal is a clear and concise subject for the filename. You may shorten or rephrase the original subject to improve clarity or brevity while preserving its core meaning.
 
