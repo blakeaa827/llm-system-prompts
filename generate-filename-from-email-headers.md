@@ -28,9 +28,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
     - If such an external domain is found:
 
-        - Take the part of this domain before the top-level extension (e.g., for `zenfra.ai`, use "zenfra"; for `client.co.uk`, use "client").
-
-        - Capitalize the first letter of this derived name (e.g., "Zenfra", "Client"). This is your `company-name`.
+        - Reference the company website located at the url of the domain in the email and determine the appropriate company name.
 
     - If all email domains in the "To" header are `arrow.com`, or if no non-`arrow.com` domains are found, use "Internal" as the `company-name`.
 
@@ -50,7 +48,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 # OUTPUT INSTRUCTIONS
 
-- Only output Markdown.
+- Only output the string that will be the filename.
 
 - The generated filename must adhere to the following format:
 `yyyymmdd hhmm - company-name - subject`
@@ -61,9 +59,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
     - `company-name`: The name of the primary external company involved, derived from email domains.
     - `subject`: A concise version of the meeting subject.
 
-- You will receive meeting invite headers enclosed in triple backticks (``` ```).
-
-- Your task is to process the meeting invite headers that will be provided where it says `[PASTE THE MEETING INVITE HEADERS HERE]` and generate the filename.
+- Your task is to process the meeting invite headers that will be provided and generate the filename.
 
 - Ensure you follow ALL these instructions when creating your output.
 
