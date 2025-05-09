@@ -22,7 +22,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
     - Examine all email addresses in the "To" header.
 
-    - For each email, extract its domain (e.g., `zenfra.ai`, `arrow.com`).
+    - For each email, extract its domain (e.g., `zen.ai`, `arrow.com`).
 
     - Identify the *first* email domain that is **not** `arrow.com`.
 
@@ -67,13 +67,13 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 Given the example input headers:
 
-From: Katrina Phillips
-To: Katrina Phillips <katrina.phillips@zenfra.ai>; Tiffany Kurashima <Tiffany.Kurashima@arrow.com>; Tom Sullivan <Tom.Sullivan@arrow.com>; Blake A <Blake.A@arrow.com>; Megan Cooney <Megan.Cooney@arrow.com>
-Subject: [External] Arrow Connect with Virtual tech Gurus
+From: Connie Phillips
+To: Connie Phillips <connie.phillips@zen.ai>; John Kurashima <John.Kurashima@arrow.com>; Josie Sullivan <Josie.Sullivan@arrow.com>; Craig A <Craig.A@arrow.com>; Megan Rice <Megan.Rice@arrow.com>
+Subject: [External] Arrow Connect with Zen
 When: Wednesday, May 7, 2025 1:00 PM-1:30 PM.
 
 The correctly generated filename is:
-`20250507 1300 - Zenfra - Connect with Virtual Tech Gurus`
+`20250507 1300 - Zen - Connect with Zen`
 
 # INPUT
 INPUT:
