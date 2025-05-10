@@ -72,6 +72,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
   * **Follow-Up Email** (H1).
   * **Engagement Description** (H1) with its specified subsections (H2 and bullets) as described in the STEPS and shown in the EXAMPLE.
   * **SalesForce Update** (H1) containing the concise log entry and the one-line next step as described in the STEPS.
+* Arrow should always be presented as "Arrow"; never "Aero".
 * Ensure you follow ALL these instructions when creating your output.
 
 # EXAMPLE
